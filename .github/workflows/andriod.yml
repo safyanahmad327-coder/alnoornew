@@ -26,6 +26,12 @@ jobs:
       - name: Build Web App
         run: npm run build
 
+      - name: Verify Build Output
+        run: |
+          ls -la
+          ls -la .output
+          ls -la .output/public
+
       - name: Setup Java
         uses: actions/setup-java@v4
         with:
@@ -38,7 +44,7 @@ jobs:
       - name: Grant Gradle Permission
         run: chmod +x android/gradlew
 
-      - name: Build Debug APK
+      - name: Build APK
         run: |
           cd android
           ./gradlew assembleDebug
