@@ -12,6 +12,9 @@
     "format": "prettier --write ."
   },
   "dependencies": {
+    "@capacitor/android": "^8.4.1",
+    "@capacitor/cli": "^7.6.7",
+    "@capacitor/core": "^8.4.1",
     "@fontsource/amiri": "^5.2.8",
     "@fontsource/inter": "^5.2.8",
     "@fontsource/noto-nastaliq-urdu": "^5.2.8",
