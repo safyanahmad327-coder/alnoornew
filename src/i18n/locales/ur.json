@@ -1,0 +1,89 @@
+{
+  "app": {
+    "name": "نور",
+    "tagline": "آپ کا روزانہ نماز کا ساتھی"
+  },
+  "nav": {
+    "home": "ہوم",
+    "prayers": "نمازیں",
+    "qibla": "قبلہ",
+    "quran": "قرآن",
+    "more": "مزید"
+  },
+  "prayers": {
+    "fajr": "فجر",
+    "sunrise": "طلوعِ آفتاب",
+    "dhuhr": "ظہر",
+    "asr": "عصر",
+    "maghrib": "مغرب",
+    "isha": "عشاء",
+    "next": "اگلی نماز",
+    "current": "موجودہ",
+    "in": "میں",
+    "hours": "گھنٹے",
+    "minutes": "منٹ",
+    "seconds": "سیکنڈ",
+    "today": "آج",
+    "weekly": "ہفتہ وار",
+    "monthly": "ماہانہ",
+    "timings": "نماز کے اوقات"
+  },
+  "home": {
+    "greeting_morning": "السلام علیکم",
+    "greeting_afternoon": "السلام علیکم",
+    "greeting_evening": "السلام علیکم",
+    "locating": "آپ کا مقام معلوم کیا جا رہا ہے…",
+    "location_error": "مقام دستیاب نہیں۔ مکہ کے اوقات دکھائے جا رہے ہیں۔",
+    "quick_actions": "فوری اعمال"
+  },
+  "sections": {
+    "duas": "دعائیں",
+    "tasbeeh": "تسبیح",
+    "calendar": "اسلامی کیلنڈر",
+    "mosques": "مساجد",
+    "quran": "قرآنِ پاک",
+    "qibla": "قبلہ نما",
+    "settings": "ترتیبات",
+    "profile": "پروفائل",
+    "auth": "سائن ان",
+    "prayer_tracker": "نماز ٹریکر",
+    "names": "اللہ کے ۹۹ نام",
+    "zakat": "زکوٰۃ کیلکولیٹر"
+  },
+  "settings": {
+    "language": "زبان",
+    "theme": "تھیم",
+    "calculation": "حساب کا طریقہ",
+    "madhab": "مذہب",
+    "notifications": "اطلاعات",
+    "light": "روشن",
+    "dark": "تاریک",
+    "system": "سسٹم"
+  },
+  "common": {
+    "loading": "لوڈ ہو رہا ہے…",
+    "coming_soon": "جلد آ رہا ہے",
+    "back": "واپس"
+  },
+  "qibla": {
+    "title": "قبلہ نما",
+    "subtitle": "کعبہ (مکہ) کی سمت",
+    "bearing": "قبلہ کی سمت",
+    "distance": "کعبہ سے فاصلہ",
+    "heading": "آپ کا رخ",
+    "turn_left": "بائیں گھمائیں",
+    "turn_right": "دائیں گھمائیں",
+    "aligned": "قبلہ کی طرف",
+    "calibrate": "کمپاس ٹھیک کرنے کے لیے فون کو 8 کی شکل میں ہلائیں۔",
+    "no_compass": "کمپاس دستیاب نہیں۔ شمال سے سمت دکھائی جا رہی ہے۔",
+    "permission": "موشن اور اورینٹیشن کی اجازت دیں",
+    "permission_hint": "iOS پر کمپاس کے لیے اجازت درکار ہے۔",
+    "offline": "آف لائن — آخری محفوظ مقام دکھایا جا رہا ہے",
+    "no_location": "قبلہ کے لیے مقام درکار ہے۔",
+    "retry": "دوبارہ کوشش",
+    "from_north": "شمال سے",
+    "km": "کلومیٹر",
+    "location": "آپ کا مقام"
+  }
+}
+

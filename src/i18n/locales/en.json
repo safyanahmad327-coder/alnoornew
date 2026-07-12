@@ -1,0 +1,89 @@
+{
+  "app": {
+    "name": "Noor",
+    "tagline": "Your Daily Prayer Companion"
+  },
+  "nav": {
+    "home": "Home",
+    "prayers": "Prayers",
+    "qibla": "Qibla",
+    "quran": "Quran",
+    "more": "More"
+  },
+  "prayers": {
+    "fajr": "Fajr",
+    "sunrise": "Sunrise",
+    "dhuhr": "Dhuhr",
+    "asr": "Asr",
+    "maghrib": "Maghrib",
+    "isha": "Isha",
+    "next": "Next Prayer",
+    "current": "Current",
+    "in": "in",
+    "hours": "h",
+    "minutes": "m",
+    "seconds": "s",
+    "today": "Today",
+    "weekly": "Weekly",
+    "monthly": "Monthly",
+    "timings": "Prayer Timings"
+  },
+  "home": {
+    "greeting_morning": "As-salamu alaykum",
+    "greeting_afternoon": "As-salamu alaykum",
+    "greeting_evening": "As-salamu alaykum",
+    "locating": "Detecting your location…",
+    "location_error": "Location unavailable. Showing Makkah timings.",
+    "quick_actions": "Quick Actions"
+  },
+  "sections": {
+    "duas": "Duas",
+    "tasbeeh": "Tasbeeh",
+    "calendar": "Islamic Calendar",
+    "mosques": "Mosque Finder",
+    "quran": "Holy Quran",
+    "qibla": "Qibla Finder",
+    "settings": "Settings",
+    "profile": "Profile",
+    "auth": "Sign in",
+    "prayer_tracker": "Prayer Tracker",
+    "names": "99 Names of Allah",
+    "zakat": "Zakat Calculator"
+  },
+  "settings": {
+    "language": "Language",
+    "theme": "Theme",
+    "calculation": "Calculation Method",
+    "madhab": "Madhab",
+    "notifications": "Notifications",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "common": {
+    "loading": "Loading…",
+    "coming_soon": "Coming soon",
+    "back": "Back"
+  },
+  "qibla": {
+    "title": "Qibla Finder",
+    "subtitle": "Direction to the Kaaba in Makkah",
+    "bearing": "Qibla Bearing",
+    "distance": "Distance to Kaaba",
+    "heading": "Your Heading",
+    "turn_left": "Turn left",
+    "turn_right": "Turn right",
+    "aligned": "Aligned with Qibla",
+    "calibrate": "Move your phone in a figure-8 to calibrate the compass.",
+    "no_compass": "Compass sensor not available. Showing bearing from North.",
+    "permission": "Enable Motion & Orientation",
+    "permission_hint": "iOS requires permission to use the compass.",
+    "offline": "Offline — showing last saved location",
+    "no_location": "Location required for Qibla direction.",
+    "retry": "Retry",
+    "from_north": "from North",
+    "km": "km",
+    "location": "Your Location"
+  }
+}
+
